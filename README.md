@@ -1,2 +1,2 @@
-# Python-Projects
-This is for all of my python projects. 
+# Python-Game
+This is my first project using Python. 
